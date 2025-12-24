@@ -1,0 +1,57 @@
+{
+    "editor.insertSpaces": false,
+    "editor.smoothScrolling": true,
+    "editor.minimap.enabled": false,
+
+    "editor.renderControlCharacters": false,
+    "editor.bracketPairColorization.enabled": false,
+    "editor.glyphMargin": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "window.density.editorTabHeight": "compact",
+    "editor.accessibilitySupport": "off",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.editor.empty.hint": "hidden",
+
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.compactFolders": false,
+
+    "debug.toolBarLocation": "hidden",
+    "debug.focusWindowOnBreak": false,
+    "debug.showInlineBreakpointCandidates": false,
+    "debug.showBreakpointsInOverviewRuler": false,
+
+    "prettier.arrowParens": "avoid",
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "prettier.singleAttributePerLine": true,
+    "prettier.bracketSameLine": false,
+    "prettier.printWidth": 80,
+    "prettier.proseWrap": "always",
+    "prettier.trailingComma": "none",
+    "prettier.tabWidth": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.inlineSuggest.enabled": true,
+
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "typescript.preferences.quoteStyle": "single",
+    "javascript.preferences.quoteStyle": "single",
+    "javascript.format.semicolons": "remove",
+    "typescript.format.semicolons": "remove",
+    "js/ts.implicitProjectConfig.experimentalDecorators": true,
+
+    "[prisma]": {
+      "editor.defaultFormatter": "Prisma.prisma"
+    },
+
+    "workbench.panel.showLabels": false,
+    "chat.commandCenter.enabled": false,
+    "window.commandCenter": false,
+
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorSmoothCaretAnimation": "explicit",
+}
